@@ -1,9 +1,8 @@
-Directories :
-./audio 	- All raw audio samples(.wav)
-./chords 	- All Chords png file for output display
-./guitar_512	- Guitar Dataset for 24 chords (noisy env).
-./gutar_clean_512 - Guitar dataset for 24 chords(zero noise)
-./piano_256 	- Piano Dataset for all chords(no noise)
+Musical Chord Recognition is a project developed to help musician recognise chords and
+hence help them in learn as well as compose music.
+We implemented a machine learning algorithm which was able to recognise chord of live music being played
+with a good accuracy.
+Dataset was created by recording guitar and piano chords.
 
 Files:
 boxplot.ipynb		- Boxplot analysis of the dataset (all chords)
