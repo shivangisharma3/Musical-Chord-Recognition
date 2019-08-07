@@ -1,0 +1,14 @@
+Directories :
+./audio 	- All raw audio samples(.wav)
+./chords 	- All Chords png file for output display
+./guitar_512	- Guitar Dataset for 24 chords (noisy env).
+./gutar_clean_512 - Guitar dataset for 24 chords(zero noise)
+./piano_256 	- Piano Dataset for all chords(no noise)
+
+Files:
+boxplot.ipynb		- Boxplot analysis of the dataset (all chords)
+Chromavector.ipynb 	- Preprocessing every audio file into a datapoint
+guitar.ipynb		- Guitar chord recognition (last cell)
+piano.ipynb		- piano chord recognition (last cell)
+guitar_piano.ipynb	- Music chord recognition (last cell)
+
